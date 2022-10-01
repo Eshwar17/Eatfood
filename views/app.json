@@ -1,0 +1,18 @@
+[
+  {
+    "id": "r1",
+    "name": "SR Cafe",
+    "address": "K T Road",
+    "cuisine": "Chinese",
+    "website": "https://testdata.com",
+    "description": "Tasty"
+  },
+  {
+    "id": "r2",
+    "name": "Udipi",
+    "address": "K T Road",
+    "cuisine": "Indian",
+    "website": "https://testdata.com",
+    "description": "Excellent"
+  }
+]
